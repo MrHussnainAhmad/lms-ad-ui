@@ -1,0 +1,20 @@
+# Nisaab360
+
+> Nisaab360 is a school management and learning platform for schools, colleges, and academies in Pakistan. It brings administration, academics, attendance, fees, and parent communication into one connected system.
+
+This website is Nisaab360's public, single-page product introduction and institution access request website. Dashboard and mobile previews are illustrations, not live institution data or verified customer statistics.
+
+## Platform and features
+
+- [Home](/): Introduction to Nisaab360 and its benefits for educational institutions.
+- [Platform overview](/#platform): Connected campus, student, staff, and academic records.
+- [Features](/#features): Admissions, student and staff attendance, fee records and vouchers, classes, timetables, exams, results, diaries, assignments, course materials, online tests, and announcements.
+- [Role-specific portals](/#portals): Administration tools; teacher attendance and classroom work; student courses, submissions, and results; parent attendance, homework, fees, and updates.
+
+## Plans and getting started
+
+- [Plans and institution access request](/#request): Select Basic, Standard, Premium, or Enterprise and review the displayed pricing. Submit institution and contact details for the team to review and follow up.
+
+The request form asks for institution name, contact name, email, phone, city, address, and a selected plan. Government registration ID, student range, and a message can be supplied as additional details. Submitting a request does not immediately create an institution account.
+
+Pricing and terms should be checked in the current request section. This marketing website does not provide signed-in institution, teacher, student, or parent portals.
